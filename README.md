@@ -7,4 +7,5 @@ This repo. contains all the data science material and cheatsheets that I found I
 4. Practical MLOPS: HOW TO GET READY FOR PRODUCTION MODELS
 5. Top 100 Python Interview Questions - Edureka
 6. Top 100 Natural language processing (NLP) Questions
+7. Statistics and Machine Learning in Python - Edouard Duchesnay, Tommy Löfstedt, Feki Younes
 
