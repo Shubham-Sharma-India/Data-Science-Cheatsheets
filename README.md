@@ -8,4 +8,5 @@ This repo. contains all the data science material and cheatsheets that I found I
 5. Top 100 Python Interview Questions - Edureka
 6. Top 100 Natural language processing (NLP) Questions
 7. Statistics and Machine Learning in Python - Edouard Duchesnay, Tommy Löfstedt, Feki Younes
+8. Machine Learning and Data Mining Lecture Notes - CSC 411/D11, Computer Science Department University of Toronto
 
