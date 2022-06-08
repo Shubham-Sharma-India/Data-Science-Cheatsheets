@@ -9,4 +9,5 @@ This repo. contains all the data science material and cheatsheets that I found I
 6. Top 100 Natural language processing (NLP) Questions
 7. Statistics and Machine Learning in Python - Edouard Duchesnay, Tommy Löfstedt, Feki Younes
 8. Machine Learning and Data Mining Lecture Notes - CSC 411/D11, Computer Science Department University of Toronto
+9. A Practical Introduction to Python Programming - Brian Heinold ( Department of Mathematics and Computer Science Mount St. Mary’s University )
 
