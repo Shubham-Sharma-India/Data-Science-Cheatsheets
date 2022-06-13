@@ -11,4 +11,5 @@ This repo. contains all the data science material and cheatsheets that I found I
 8. Machine Learning and Data Mining Lecture Notes - CSC 411/D11, Computer Science Department University of Toronto
 9. A Practical Introduction to Python Programming - Brian Heinold ( Department of Mathematics and Computer Science Mount St. Mary’s University )
 10. Automated Machine Learning - The Springer Series on Challenges in Machine Learning - Frank Hutter, Lars Kotthoff, JoaquinVanschoren
+11. Python Tutorial - Prepared by Asif Bhat ( :thumbsup: )
 
