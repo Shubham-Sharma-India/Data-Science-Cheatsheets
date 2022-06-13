@@ -12,4 +12,5 @@ This repo. contains all the data science material and cheatsheets that I found I
 9. A Practical Introduction to Python Programming - Brian Heinold ( Department of Mathematics and Computer Science Mount St. Mary’s University )
 10. Automated Machine Learning - The Springer Series on Challenges in Machine Learning - Frank Hutter, Lars Kotthoff, JoaquinVanschoren
 11. Python Tutorial - Prepared by Asif Bhat ( :thumbsup: )
+12. Deep Learning Notes - Andrew Ng Sir Notes - Made By Mahmoud Badry
 
