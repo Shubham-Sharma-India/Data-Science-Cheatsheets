@@ -13,4 +13,5 @@ This repo. contains all the data science material and cheatsheets that I found I
 10. Automated Machine Learning - The Springer Series on Challenges in Machine Learning - Frank Hutter, Lars Kotthoff, JoaquinVanschoren
 11. Python Tutorial - Prepared by Asif Bhat ( :thumbsup: )
 12. Deep Learning Notes - Andrew Ng Sir Notes - Made By Mahmoud Badry
+13. SQL for Data Science (Data Cleaning, Wrangling and Analytics with Relational Databases ) - Antonio Badia
 
