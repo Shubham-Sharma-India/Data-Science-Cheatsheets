@@ -15,4 +15,5 @@ This repo. contains all the data science material and cheatsheets that I found I
 12. Deep Learning Notes - Andrew Ng Sir Notes - Made By Mahmoud Badry
 13. SQL for Data Science (Data Cleaning, Wrangling and Analytics with Relational Databases ) - Antonio Badia
 14. AI for Data Science - Zacharias Volugaris, PhD
+15. Python for Science and Engineering - Hans-Petter Halvorsen
 
